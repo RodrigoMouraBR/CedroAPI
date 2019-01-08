@@ -1,0 +1,15 @@
+C:\Users\Moura\source\repos\CedroTechnologies\src\Cedro.Domain\bin\Debug\Cedro.Domain.dll
+C:\Users\Moura\source\repos\CedroTechnologies\src\Cedro.Domain\bin\Debug\Cedro.Domain.pdb
+C:\Users\Moura\source\repos\CedroTechnologies\src\Cedro.Domain\bin\Debug\Cedro.Domain.Core.dll
+C:\Users\Moura\source\repos\CedroTechnologies\src\Cedro.Domain\bin\Debug\FluentValidation.dll
+C:\Users\Moura\source\repos\CedroTechnologies\src\Cedro.Domain\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Moura\source\repos\CedroTechnologies\src\Cedro.Domain\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Moura\source\repos\CedroTechnologies\src\Cedro.Domain\bin\Debug\System.ValueTuple.dll
+C:\Users\Moura\source\repos\CedroTechnologies\src\Cedro.Domain\bin\Debug\Cedro.Domain.Core.pdb
+C:\Users\Moura\source\repos\CedroTechnologies\src\Cedro.Domain\bin\Debug\FluentValidation.xml
+C:\Users\Moura\source\repos\CedroTechnologies\src\Cedro.Domain\bin\Debug\System.ValueTuple.xml
+C:\Users\Moura\source\repos\CedroTechnologies\src\Cedro.Domain\obj\Debug\Cedro.Domain.csprojAssemblyReference.cache
+C:\Users\Moura\source\repos\CedroTechnologies\src\Cedro.Domain\obj\Debug\Cedro.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Moura\source\repos\CedroTechnologies\src\Cedro.Domain\obj\Debug\Cedro.Domain.csproj.CopyComplete
+C:\Users\Moura\source\repos\CedroTechnologies\src\Cedro.Domain\obj\Debug\Cedro.Domain.dll
+C:\Users\Moura\source\repos\CedroTechnologies\src\Cedro.Domain\obj\Debug\Cedro.Domain.pdb
